@@ -1,0 +1,2 @@
+#!/bin/bash
+find . -name "./*.mp3" -type f | xargs cp -R -u -p -vt ./alx-system_engineering-devops/
